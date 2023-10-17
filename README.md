@@ -32,7 +32,7 @@ Design a network in cisco packet tracer to connect ACCOUNTS and DELIVERY departm
 
 
 
-4) All devices in the network should be connected using appropriate cabels.
+4) All devices in the network should be connected using appropriate cables.
 
 
 
