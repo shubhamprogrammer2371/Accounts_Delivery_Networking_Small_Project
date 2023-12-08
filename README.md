@@ -42,6 +42,69 @@ Design a network in cisco packet tracer to connect ACCOUNTS and DELIVERY departm
 
 
 
+
+
+
+
+
+Technologies Implemented :- 
+
+
+
+
+
+1) Creating a Simple Network using a Router and Access Layer Switch.
+
+
+
+
+
+2) Connecting Networking devices with Correct cabling.
+
+
+
+
+
+
+
+3) Connecting two Networks using a Router.
+
+
+
+
+
+
+
+4) Subnetting and IP Addressing.
+
+
+
+
+
+
+
+5) Assigning IP Addresses to Router's interfaces.
+
+
+
+
+
+
+
+
+6) Static IP Address allocation to Host Devices.
+
+
+
+
+
+
+
+
+7) Test and Verifying Network Communication.
+
+
+
 POV : Additionally, I used a router and the Dynamic Host Configuration Protocol (DHCP) to dynamically assign IP addresses to hosts and endpoints in both sub-networks.
 
 
